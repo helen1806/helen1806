@@ -189,25 +189,16 @@ I enjoy building software that solves business problems by transforming complex 
 - Machine Learning
 - Cloud Computing
 - Distributed Systems
-- API Design
-- Data Infrastructure
-- Software Architecture
+
 
 
 
 # Let's Connect
 
-Feel free to connect regarding
-
-- Backend Engineering
-- Data Engineering
-- Machine Learning
-- Open Source
-- Research
-- Software Architecture
+Feel free to connect 
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](helen-sebastian)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helen-sebastian)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](helen1806)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helen1806)
