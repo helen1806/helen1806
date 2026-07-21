@@ -150,15 +150,6 @@ I enjoy building software that solves business problems by transforming complex 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helen1806&theme=github_dark" width="100%" />
 </p>
 
-# Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=helen1806&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
-
 
 # Activity Metrics
 
