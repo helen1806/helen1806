@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛠️ Helen Mary
+#  Helen Mary
 ### **Software Engineer • Data Engineering**
 
 <!-- Dynamic Intro Banner Graphic -->
