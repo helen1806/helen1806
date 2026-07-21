@@ -6,7 +6,7 @@
 <!-- Dynamic Intro Banner Graphic -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Driven+By+Curiosity)](https://git.io/typing-svg)
 
-*I enjoy exploring interdisciplinary fields at the intersection of Computer Science.*
+
 
 
 
