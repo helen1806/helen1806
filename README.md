@@ -162,17 +162,6 @@ I enjoy building software that solves business problems by transforming complex 
 </div>
 
 
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=helen1806&theme=github-dark&hide_border=true"/>
-
-</div>
-
-
-
 # What I'm Interested In
 
 - Backend Engineering
